@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Examinations_Pastpaper_Archiving_System"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Examinations_Pastpaper_Archiving_System-7b4233da-7a3b-4184-87ca-725e44c33c08;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
