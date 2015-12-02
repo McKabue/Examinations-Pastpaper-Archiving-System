@@ -6615,7 +6615,7 @@
       "Microsoft.Framework.Logging >= 1.0.0-beta5",
       "Microsoft.Framework.Logging.Console >= 1.0.0-beta5",
       "Microsoft.VisualStudio.Web.BrowserLink.Loader >= 14.0.0-beta5",
-      "Microsoft.AspNet.SignalR.Server >= 3.0.0-*"
+      "Microsoft.AspNet.SignalR.Server >= 3.0.0-beta5"
     ],
     "DNX,Version=v4.5.1": [],
     "DNXCore,Version=v5.0": []
